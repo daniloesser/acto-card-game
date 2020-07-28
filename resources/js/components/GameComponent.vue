@@ -31,20 +31,16 @@
                             <div class="alert alert-success p-2 pb-5">
                                 <a class="close font-weight-normal initialism" data-dismiss="alert" href="#"><samp>&times;</samp></a>
                                 <h3>You Won!</h3><br>
-                                <span style="padding-right: 16px;"> Player's hand: </span><b>{{userCardSequence.join('
-                                ')}}</b> ({{gameScore.user}} points)<br>
-                                <span> Generated hand: </span><b> {{cpuCardSequence.join(' ')}}</b> ({{gameScore.cpu}}
-                                points)
+                                <span style="padding-right: 16px;"> Player's hand: </span><b>{{userCardSequence.join(' ')}}</b> ({{gameScore.user}} points)<br>
+                                <span> Generated hand: </span><b> {{cpuCardSequence.join(' ')}}</b> ({{gameScore.cpu}} points)
                             </div>
                         </div>
                         <div v-else-if="gameHasFinished && !userHasWon && !form.errors.any()">
                             <div class="alert alert-warning p-2 pb-5">
                                 <a class="close font-weight-normal initialism" data-dismiss="alert" href="#"><samp>&times;</samp></a>
                                 <h3>You lost.</h3><br>
-                                <span style="padding-right: 16px;"> Player's hand: </span><b>{{userCardSequence.join('
-                                ')}}</b> ({{gameScore.user}} points)<br>
-                                <span> Generated hand: </span><b> {{cpuCardSequence.join(' ')}}</b> ({{gameScore.cpu}}
-                                points)
+                                <span style="padding-right: 16px;"> Player's hand: </span><b>{{userCardSequence.join(' ')}}</b> ({{gameScore.user}} points)<br>
+                                <span> Generated hand: </span><b> {{cpuCardSequence.join(' ')}}</b> ({{gameScore.cpu}} points)
                             </div>
                         </div>
                     </div>
