@@ -89,9 +89,8 @@
                                 <li><i>Laradock</i></li>
                                 <li><i>Laravel</i></li>
                                 <li><i>Passport</i></li>
-                                <li><i>thephpleague/fractal</i></li>
+                                <li><i>thePHPLeague/fractal</i></li>
                                 <li><i>VueJs</i></li>
-                                <li><i>Codeception</i></li>
                             </ul>
                             <p> by <a><strong>Danilo Esser</strong></a>, <i>July 2020</i><br></p>
                             <a class="btn btn-lg btn-success offset-3" href="{{ route('login') }}"> Start playing</a>
