@@ -70,7 +70,7 @@ class ApiTest extends TestCase
     }
 
     /**
-     * Test a New game with a valid card sequence
+     * Test the leaderboard data retrieval
      *
      * @return void
      */
