@@ -50,7 +50,7 @@ class ValidCardSequence implements Rule
      */
     public function message()
     {
-        return 'Wrong format. Please inform it accordingly. Valid options are: \'2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A\'';
+        return 'Wrong format. Please inform it accordingly. Valid options are: \'1, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A\'';
     }
 
 
