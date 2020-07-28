@@ -5,6 +5,7 @@ A simple card game.
 
 ## Technology Stack
 
+- [x] [PHPStorm](https://www.jetbrains.com/phpstorm/)
 - [x] [Laravel 7](https://laravel.com)
 - [x] [Laradock](https://laradock.io)
 - [x] [Fractal](https://fractal.thephpleague.com)
@@ -13,6 +14,7 @@ A simple card game.
 - [x] [Navicat](https://navicat.com)
 - [x] [VueJs](https://vuejs.org/)
 - [x] [Axios](https://github.com/axios/axios)
+- [x] [Bootstrap 4](http://getbootstrap.com/)
 
 
 
