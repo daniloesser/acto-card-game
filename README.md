@@ -5,17 +5,20 @@ A simple card game.
 
 ## Technology Stack
 
-- [x] [PHPStorm](https://www.jetbrains.com/phpstorm/)
 - [x] [Laravel 7](https://laravel.com)
 - [x] [Laradock](https://laradock.io)
 - [x] [Fractal](https://fractal.thephpleague.com)
 - [x] [Passport](https://github.com/laravel/passport)
 - [x] [MySql](https://mysql.com)
-- [x] [Navicat](https://navicat.com)
 - [x] [VueJs](https://vuejs.org/)
 - [x] [Axios](https://github.com/axios/axios)
 - [x] [Bootstrap 4](http://getbootstrap.com/)
 
+## Tools
+
+- [x] [PHPStorm](https://www.jetbrains.com/phpstorm/)
+- [x] [Navicat](https://navicat.com)
+- [x] [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 
 
 ## Requirements
